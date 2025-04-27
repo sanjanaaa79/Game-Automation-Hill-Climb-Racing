@@ -1,4 +1,4 @@
-# 🖐️ HandyControl: Gesture-Based Input System 🚗💨
+# 🖐️ Game Automation of Hill Climb Racing 🚗💨
 
 ## Control your computer with hand gestures!
 
